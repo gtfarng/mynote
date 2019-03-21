@@ -1,0 +1,12 @@
+https://gtfarng-counter-redux-reactapp.netlify.com/ 	=> Counter-Redux
+https://gtfarng-counter-nonredux-reactapp.netlify.com/ 	=> Counter-NonRedux
+https://gtfarng-todo-redux-reactapp.netlify.com/ 	=> Todo-Redux
+https://gtfarng-todo-nonredux-reactapp.netlify.com/	=> Todo-NonRedux
+https://gtfarng-github-nonredux-reactapp.netlify.com/	=> Github-NonRedux
+https://gtfarng-github-redux-reactapp.netlify.com/	=> Github-Redux
+https://gtfarng-bears-nonredux-reactapp.netlify.com/	=> Bears-NonRedux
+https://gtfarng-bears-redux-reactapp.netlify.com/	=> Bears-Redux
+https://gtfarng-bears-rest-redux-reactapp.netlify.com/	=> Bears-Redux-rest
+https://gtfarng-bearss-rest-redux-reactapp.netlify.com/	=> Bears-Redux-rest
+
+http://gtfarng-restful.ddns.net 8001-8005

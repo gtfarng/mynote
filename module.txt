@@ -1,0 +1,13 @@
+Frontend
+-axios
+-react-redux
+-redux
+-redux-logger
+-redux-thunk
+
+
+Backend
+-Router
+-Cors
+-Expess
+-body-parser

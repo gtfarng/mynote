@@ -1,0 +1,3 @@
+sudo ufw allow ssh
+sudo ufw allow 8069/tcp
+sudo ufw enable
