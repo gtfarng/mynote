@@ -1,0 +1,12 @@
+Create a new branch:
+git checkout -b feature_branch_name
+
+Push your branch to the remote repository:
+git push origin feature_branch_name
+
+git pull
+git checkout -b test  origin/test
+git push origin test
+git branch -a
+git checkout test
+git checkout -b test
