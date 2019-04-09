@@ -6,4 +6,4 @@ npm -v
 npm install -g nodemon
 npm install -g create-react-app
 npm install -g yarn
-
+npm install -g pm2
