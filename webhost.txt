@@ -19,3 +19,4 @@ NO IP
 ---------------------------------------------------
 http://gtfarng-restful.ddns.net	=>	40.74.66.104
 http://gtfarng.ddns.net		=>	104.215.198.36
+http://gtfarnghost.ddns.net	=>	13.67.49.10
