@@ -1,0 +1,4 @@
+docker run -i loadimpact/k6 run --vus 10 --duration 30s -< script.js
+
+docker run --net="host" -i loadimpact/k6 run --vus 100 --duration 20s  - < script.js
+
