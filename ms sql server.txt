@@ -1,0 +1,4 @@
+-U SA
+-P p@ssw0rd
+
+sqlcmd -S localhost -U SA -P 'p@ssw0rd'
