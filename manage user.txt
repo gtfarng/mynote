@@ -1,0 +1,3 @@
+adduser gtfarng
+usermod -aG sudo gtfarng
+su - gtfarng
