@@ -1,0 +1,1 @@
+select hn,cid from hosxp_pcu.patient limit 10;

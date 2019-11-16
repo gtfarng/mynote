@@ -1,0 +1,26 @@
+vim /etc/mysql/mysql.conf.d/mysqld.cnf
+#bind-address           = 0.0.0.0
+
+use mysql;
+create user 'agent'@'192.168.1.135' identified by 'P@ssw0rd';
+grant all on *.* to 'agent'@'192.168.1.135';
+flush privileges;
+
+
+use mysql;
+create user 'admin'@'localhost' identified by 'P@ssw0rd';
+grant all on *.* to 'admin'@'localhost' ;
+flush privileges;
+
+
+
+CREATE USER 'root'@'%' IDENTIFIED BY 'some_pass';
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%';
+FLUSH PRIVILEGES;
+
+mysqldump -u root -p demo >  backup.sql
+
+source c:/backup.sql
+
+ 
+

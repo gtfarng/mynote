@@ -1,0 +1,3 @@
+select hn,cid from  hosxp_pcu.patient limit 10;
+
+ DELETE FROM [Patient4].[dbo].[DN_PdfList] WHERE SCRunno=2;

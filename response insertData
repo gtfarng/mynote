@@ -1,0 +1,22 @@
+{
+    "SCRunno": "8693",
+    "hn": "44-47620",
+    "doctor_code": "12402",
+    "doctor_mean": "วิสิทธิ์ เสถียรวันทนีย์",
+    "department_code": "020",
+    "department": "32",
+    "department_mean": "ศัลยกรรม",
+    "clinic": "3204",
+    "clinic_mean": "ศัลยกรรมประสาท",
+    "vn": "60-513440",
+    "id": "3-6607-00239-82-0",
+    "pid": "3660700239820",
+    "type": "dnt",
+    "url": [
+	"http://192.168.50.61/Doctornote/3660700239820/img/sdrshtrt.jpg",
+	"http://192.168.50.61/Doctornote/3660700239820/img/sdrshtrt.jpg",
+	]
+    "date": "2019-11-15",
+    "code": 200,
+    "message": "complete!!!"
+}
