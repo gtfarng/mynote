@@ -1,0 +1,14 @@
+https://www.raspberrypi.org/forums/viewtopic.php?t=194468&fbclid=IwAR0zg4Agz6kZOdx7yyRM4S3osPgEkSy8rUWSaWAJ_01dRsrXdSEkGd70m4E
+sudo apt-get install ntp
+sudo nano /etc/ntp.conf
+git clone https://gitlab.com/hedestob/agentdeploy.git
+
+sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
+
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+@xscreensaver -no-splash
+point-rpi
+@lxterminal -e ./main
+
+
